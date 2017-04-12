@@ -1,4 +1,4 @@
-# ngeo clone by Mx
+# ngeo
 
 ngeo is a JS library that aims to ease the development of applications based on
 [AngularJS](https://angularjs.org/) and [OpenLayers](http://openlayers.org).
